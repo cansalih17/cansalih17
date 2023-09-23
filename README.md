@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hoş Geldiniz!
 
-<!--
-**cansalih17/cansalih17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bu GitHub profili, benim açık kaynak projelerimi ve çalışmalarımı paylaştığım yerdir. Aşağıda projelerimi bulabilirsiniz:
 
-Here are some ideas to get you started:
+## Projeler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. **Proje Adı 1**
+   - Açıklama: Bu projenin kısa bir açıklaması buraya gelebilir.
+   - Demo Linki: [Demo](proje_linki)
+
+2. **Proje Adı 2**
+   - Açıklama: Bu projenin kısa bir açıklaması buraya gelebilir.
+   - Demo Linki: [Demo](proje_linki)
+
+3. **Proje Adı 3**
+   - Açıklama: Bu projenin kısa bir açıklaması buraya gelebilir.
+   - Demo Linki: [Demo](proje_linki)
+
+## Katkıda Bulunma
+
+Eğer projelerimde katkıda bulunmak isterseniz, lütfen bir Issue açarak veya bir Pull Request göndererek katkıda bulunabilirsiniz. Katkılarınızı bekliyorum!
+
+## İletişim
+
+Benimle iletişime geçmek için [email adresiniz](mailto:email@example.com) veya [Twitter](https://twitter.com/kullanici_adi) üzerinden bana ulaşabilirsiniz.
