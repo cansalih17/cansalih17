@@ -1,10 +1,10 @@
 # demo
-
+- [eCommerce demo](https://react-ecommerce-cansalih.netlify.app/)
 
    - [vNotes Demo](https://vnotess.netlify.app/)
 
 
-   - [Ecommerce Demo](https://ecommercesalo.netlify.app/)
+   - [Ecommerce Demo 2](https://ecommercesalo.netlify.app/)
 
 
    - [ToDo Demo](https://salokafkefdemotodo.netlify.app/)
