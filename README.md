@@ -3,16 +3,8 @@
 
    - [vNotes Demo](https://vnotess.netlify.app/)
 
-
-   - [Ecommerce Demo 2](https://ecommercesalo.netlify.app/)
-
-
-   - [ToDo Demo](https://salokafkefdemotodo.netlify.app/)
-
-
    - [Blog Demo](https://otuzblog.netlify.app/)
 
+   - [scrollbar project](https://react-scrollbar.netlify.app/)
 
-   - [LoLMarket Demo](https://lolmarketsalo.netlify.app/)
-
-   - [DBD API Demo](https://dbdapi.netlify.app/)
+   - [instagram basic clone](https://saloinsta.netlify.app/)
